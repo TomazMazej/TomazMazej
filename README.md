@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-[![Social banner for Tomaz Mazej](https://github.com/TomazMazej/TomazMazej/raw/master/assets/mazejgames_banner.png)](https://www.facebook.com/mazejgames)
+[![Social banner for Tomaz Mazej](https://github.com/TomazMazej/TomazMazej/blob/main/assets/mazejgames_banner.png)](https://www.facebook.com/mazejgames)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning iOS Development
