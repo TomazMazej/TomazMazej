@@ -1,5 +1,7 @@
 ### Greetings 👋
 
+[![Header](https://raw.githubusercontent.com/TomazMazej/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning iOS Development
 - 👯 I’m looking to collaborate on ...
