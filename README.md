@@ -5,9 +5,9 @@
 <div align="center">
 <h2 align='center'>I'm a Computer Science Student and App/Game Developer!</h1>
 
-- 🔭 I’m currently working on Financial Tracker App
-- 🌱 I’m currently learning iOS Development
-- ⚡ Fun fact: Bill Gates' house was designed using a Macintosh computer.
+🔭 I’m currently working on Financial Tracker App
+🌱 I’m currently learning iOS Development
+⚡ Fun fact: Bill Gates' house was designed using a Macintosh computer.
 </div>
 
 <div align="center">
@@ -40,7 +40,7 @@
 [<img align="center" alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">](https://www.microsoft.com/en-us/windows)
 [<img align="center" alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">](https://developer.apple.com/macos/)
 [<img align="center" alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">](https://www.kernel.org/)
-<br>
+<br><br>
 <img align="center" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomazMazej&count_private=true&show_icons=true&theme=dark" />
 </div>
 
