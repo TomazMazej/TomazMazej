@@ -9,8 +9,7 @@
 - ⚡ Fun fact: ...
 
 <div align="center">
-<h2 align='center'>📫 How to reach me</h1>
-
+<h2 align='center'>📫 How to reach me</h2>
 [<img align="center" alt="Social | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="Social | Stackoverflow" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="center" alt="Social | Gmail" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
@@ -18,7 +17,8 @@
 [<img align="center" alt="Social | Instagram" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 </div>
 
-### 🛠️ Languages and Tools:
+<div align="center">
+<h2 align='center'>🛠️ Languages and Tools:</h2>
 [<img align="center" alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />](https://code.visualstudio.com/)
 [<img align="center" alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />](https://www.jetbrains.com/idea/)
 [<img align="center" alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />](https://www.jetbrains.com/pycharm/)
@@ -36,7 +36,9 @@
 [<img align="center" alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">](https://www.microsoft.com/en-us/windows)
 [<img align="center" alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">](https://developer.apple.com/macos/)
 [<img align="center" alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">](https://www.kernel.org/)
+<br>
 <img align="center" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomazMazej&count_private=true&show_icons=true&theme=dark" />
+</div>
 
 [linkedin]: https://www.linkedin.com/in/tomaz-mazej-5a636418b/
 [stackoverflow]: https://stackoverflow.com/users/12029044/tomaz-mazej
