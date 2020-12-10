@@ -2,11 +2,13 @@
 
 [![Social banner for Tomaz Mazej](https://github.com/TomazMazej/TomazMazej/blob/main/assets/mazejgames_banner.png)](https://www.facebook.com/mazejgames)
 
+<div align="center">
 <h2 align='center'>I'm a Computer Science Student and App/Game Developer!</h1>
 
 - 🔭 I’m currently working on Financial Tracker App
 - 🌱 I’m currently learning iOS Development
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Bill Gates' house was designed using a Macintosh computer.
+</div>
 
 <div align="center">
 <h2 align='center'>📫 How to reach me</h2>
