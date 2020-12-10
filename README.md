@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-[![Header](https://raw.githubusercontent.com/TomazMazej/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Social banner for Tomaz Mazej](https://github.com/TomazMazej/TomazMazej/raw/master/assets/mazejgames_banner.png)](https://www.facebook.com/mazejgames)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning iOS Development
