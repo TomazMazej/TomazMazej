@@ -5,7 +5,7 @@
 <div align="center">
 <h2 align='center'>I'm a Computer Science Student and App/Game Developer!</h1>
 
-🔭 I’m currently working on [Financial Tracker App](https://github.com/TomazMazej/finance_tracker)
+🔭 I’m currently working on [Plant Care App](https://github.com/TomazMazej/plant_care)
 
 🌱 I’m currently learning iOS Development
 
