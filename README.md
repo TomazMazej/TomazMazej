@@ -43,7 +43,9 @@
 [<img align="center" alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">](https://developer.apple.com/macos/)
 [<img align="center" alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">](https://www.kernel.org/)
 <br><br>
-<img align="center" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomazMazej&count_private=false&show_icons=true&theme=dark" />
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=TomazMazej&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomazMazej&hide=TeX&layout=compact&theme=dark)
 </div>
 
 [linkedin]: https://www.linkedin.com/in/tomaz-mazej-5a636418b/
