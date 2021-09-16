@@ -5,9 +5,9 @@
 <div align="center">
 <h2 align='center'>I'm a Computer Science Student and App/Game Developer!</h1>
 
-🔭 I’m currently working on [Plant Care App](https://github.com/TomazMazej/plant_care)
+🔭 I’m currently working on iOS and Blockchain apps
 
-🌱 I’m currently learning iOS Development
+🌱 I’m currently learning Swift and Solidity
 
 ⚡ Fun fact: Bill Gates' house was designed using a Macintosh computer.
 </div>
