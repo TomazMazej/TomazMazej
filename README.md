@@ -42,7 +42,6 @@
 <br><br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TomazMazej&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomazMazej&hide=TeX&layout=compact&theme=dark&count_private=true)
 </div>
 
 [linkedin]: https://www.linkedin.com/in/tomaz-mazej-5a636418b/
