@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on iOS and Android apps
 
-🌱 I’m currently learning Swift
+🌱 I’m currently learning Swift, React
 
 ⚡ Fun fact: Bill Gates' house was designed using a Macintosh computer.
 </div>
