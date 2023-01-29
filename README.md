@@ -56,7 +56,7 @@
   
 </div>
 
-<div align="center">
+<div>
 <h2 align='center'>Hobbies</h2>
   - Fitness🏋️
   - Tennis🎾
