@@ -6,6 +6,7 @@
 
 [![Social banner for Tomaz Mazej](https://github.com/TomazMazej/TomazMazej/blob/main/assets/mazej_dev_logo.png)](https://mazejgames.com)
 
+### ℹ️ Info
 
 🔭 I’m currently working on my **Master Thesis**
 
