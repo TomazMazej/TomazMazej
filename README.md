@@ -2,7 +2,6 @@
 
 [![Social banner for Tomaz Mazej](https://github.com/TomazMazej/TomazMazej/blob/main/assets/mazej_dev_logo.png)](https://mazejgames.com)
 
-<div>
 <h2>I'm a Computer Science Master Student and App/Game Developer!</h1>
 
 🔭 I’m currently working on my **Master Thesis**
@@ -12,9 +11,9 @@
 🏢 I'm working at ... **[HRC d.o.o](https://www.hrc.si/)**
 
 ⚡ **Fun fact**: Bill Gates' house was designed using a Macintosh computer.
-</div>
 
-<div>
+#
+
 <h2>📫 How to reach me:</h2>
   
 [<img align="center" alt="Social | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -22,9 +21,9 @@
 [<img align="center" alt="Social | Gmail" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="center" alt="Social | Facebook" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="center" alt="Social | Instagram" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-</div>
 
-<div>
+#
+
 <h2>🛠️ Languages and Tools:</h2>
   
 [<img alt="android" width="26px" src="https://img.icons8.com/color/48/000000/android-os.png" />](https://www.android.com/)
@@ -41,9 +40,9 @@
 [<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">](https://www.microsoft.com/en-us/windows)
 [<img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">](https://developer.apple.com/macos/)
 [<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">](https://www.kernel.org/)
-</div>
 
-<div>
+#
+
 <h2>🎓 Education:</h2>
   
 - Bachelor's degree in computer science:
@@ -54,9 +53,8 @@
   - **University**: Faculty of Electrical Engineering and Computer Science, University of Maribor
   - **Thesis title**: / &rarr; Not yet completed
   
-</div>
+#
 
-<div>
 <h2>Hobbies:</h2>
   
 - Fitness🏋️
@@ -66,8 +64,6 @@
 - Travel🗺️
 - Motorbike🏍️
   
-</div>
-
 [linkedin]: https://www.linkedin.com/in/tomaz-mazej-5a636418b/
 [stackoverflow]: https://stackoverflow.com/users/12029044/tomaz-mazej
 [gmail]: mailto:tomaz.mazej@gmail.com
