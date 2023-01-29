@@ -1,6 +1,6 @@
 <h1 align='center'> Welcome to my profile! :wave:</h1>
 
-[![Social banner for Tomaz Mazej](https://github.com/TomazMazej/TomazMazej/blob/main/assets/mazejgames_banner.png)](https://mazejgames.com)
+[![Social banner for Tomaz Mazej](https://github.com/TomazMazej/TomazMazej/blob/main/assets/mazej_dev_logo.png)](https://mazejgames.com)
 
 <div align="center">
 <h2 align='center'>I'm a Computer Science Student and App/Game Developer!</h1>
