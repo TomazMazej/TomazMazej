@@ -14,7 +14,7 @@
 
 #
 
-###📫 How to reach me:
+### 📫 How to reach me:
   
 [<img align="center" alt="Social | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="Social | Stackoverflow" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
@@ -24,7 +24,7 @@
 
 #
 
-###🛠️ Languages and Tools:
+### 🛠️ Languages and Tools:
   
 [<img alt="android" width="26px" src="https://img.icons8.com/color/48/000000/android-os.png" />](https://www.android.com/)
 [<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />](https://www.jetbrains.com/idea/)
@@ -43,7 +43,7 @@
 
 #
 
-###🎓 Education:
+### 🎓 Education:
   
 - Bachelor's degree in computer science:
   - **University**: Faculty of Electrical Engineering and Computer Science, University of Maribor
@@ -55,7 +55,7 @@
   
 #
 
-###Hobbies:
+### Hobbies:
   
 - Fitness🏋️
 - Tennis🎾
