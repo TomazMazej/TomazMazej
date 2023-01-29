@@ -1,9 +1,9 @@
-<h1 align='center'> Welcome to my profile! :wave:</h1>
+<h1> Welcome to my profile! :wave:</h1>
 
 [![Social banner for Tomaz Mazej](https://github.com/TomazMazej/TomazMazej/blob/main/assets/mazej_dev_logo.png)](https://mazejgames.com)
 
-<div align="center">
-<h2 align='center'>I'm a Computer Science Master Student and App/Game Developer!</h1>
+<div>
+<h2>I'm a Computer Science Master Student and App/Game Developer!</h1>
 
 🔭 I’m currently working on my **Master Thesis**
 
@@ -14,8 +14,8 @@
 ⚡ **Fun fact**: Bill Gates' house was designed using a Macintosh computer.
 </div>
 
-<div align="center">
-<h2 align='center'>📫 How to reach me:</h2>
+<div>
+<h2>📫 How to reach me:</h2>
   
 [<img align="center" alt="Social | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="Social | Stackoverflow" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
@@ -24,28 +24,28 @@
 [<img align="center" alt="Social | Instagram" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 </div>
 
-<div align="center">
-<h2 align='center'>🛠️ Languages and Tools:</h2>
+<div>
+<h2>🛠️ Languages and Tools:</h2>
   
-[<img align="center" alt="android" width="26px" src="https://img.icons8.com/color/48/000000/android-os.png" />](https://www.android.com/)
-[<img align="center" alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />](https://www.jetbrains.com/idea/)
-[<img align="center" alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">](https://docs.oracle.com/en/java/)
-[<img align="center" alt="apple" width="26px" src="https://img.icons8.com/ios/50/000000/mac-os.png">](https://www.apple.com/)
-[<img align="center" alt="xcode" width="26px" src="https://img.icons8.com/color/48/000000/xcode.png">](https://developer.apple.com/xcode/)
-[<img align="center" alt="swift" width="26px" src="https://img.icons8.com/color/48/000000/swiftui.png">](https://developer.apple.com/swift/)
-[<img align="center" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">](https://dev.mysql.com/)
-[<img align="center" alt="unity" width="26px" src="https://img.icons8.com/ios-filled/50/000000/unity.png">](https://unity.com/)
-[<img align="center" alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">](https://git-scm.com/)
-[<img align="center" alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">](https://github.com/)
-[<img align="center" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">](https://docs.microsoft.com/en-us/windows/terminal/)
-[<img align="center" alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">](https://www.microsoft.com/en-us/windows)
-[<img align="center" alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">](https://developer.apple.com/macos/)
-[<img align="center" alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">](https://www.kernel.org/)
+[<img alt="android" width="26px" src="https://img.icons8.com/color/48/000000/android-os.png" />](https://www.android.com/)
+[<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />](https://www.jetbrains.com/idea/)
+[<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">](https://docs.oracle.com/en/java/)
+[<img alt="apple" width="26px" src="https://img.icons8.com/ios/50/000000/mac-os.png">](https://www.apple.com/)
+[<img alt="xcode" width="26px" src="https://img.icons8.com/color/48/000000/xcode.png">](https://developer.apple.com/xcode/)
+[<img alt="swift" width="26px" src="https://img.icons8.com/color/48/000000/swiftui.png">](https://developer.apple.com/swift/)
+[<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">](https://dev.mysql.com/)
+[<img alt="unity" width="26px" src="https://img.icons8.com/ios-filled/50/000000/unity.png">](https://unity.com/)
+[<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">](https://git-scm.com/)
+[<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">](https://github.com/)
+[<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">](https://docs.microsoft.com/en-us/windows/terminal/)
+[<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">](https://www.microsoft.com/en-us/windows)
+[<img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">](https://developer.apple.com/macos/)
+[<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">](https://www.kernel.org/)
 <br><br>
 </div>
 
 <div>
-<h2 align='center'>🎓 Education:</h2>
+<h2>🎓 Education:</h2>
   
 - Bachelor's degree in computer science:
   - **University**: Faculty of Electrical Engineering and Computer Science, University of Maribor
@@ -58,7 +58,7 @@
 </div>
 
 <div>
-<h2 align='center'>Hobbies:</h2>
+<h2>Hobbies:</h2>
   
 - Fitness🏋️
 - Tennis🎾
