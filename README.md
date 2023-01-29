@@ -1,8 +1,11 @@
 <h1> Welcome to my profile! :wave:</h1>
 
+### I'm a Computer Science Master Student, App/Game Developer and I also freelance websites!
+
+#
+
 [![Social banner for Tomaz Mazej](https://github.com/TomazMazej/TomazMazej/blob/main/assets/mazej_dev_logo.png)](https://mazejgames.com)
 
-<h2>I'm a Computer Science Master Student and App/Game Developer!</h1>
 
 🔭 I’m currently working on my **Master Thesis**
 
