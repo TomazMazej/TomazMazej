@@ -41,7 +41,6 @@
 [<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">](https://www.microsoft.com/en-us/windows)
 [<img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">](https://developer.apple.com/macos/)
 [<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">](https://www.kernel.org/)
-<br><br>
 </div>
 
 <div>
