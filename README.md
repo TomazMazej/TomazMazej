@@ -3,17 +3,19 @@
 [![Social banner for Tomaz Mazej](https://github.com/TomazMazej/TomazMazej/blob/main/assets/mazej_dev_logo.png)](https://mazejgames.com)
 
 <div align="center">
-<h2 align='center'>I'm a Computer Science Student and App/Game Developer!</h1>
+<h2 align='center'>I'm a Computer Science Master Student and App/Game Developer!</h1>
 
-🔭 I’m currently working on iOS and Android apps
+🔭 I’m currently working on my **Master Thesis**
 
-🌱 I’m currently learning Swift, React
+🌱 I’m currently learning **Swift**
+  
+🏢 I'm working at ... **[HRC d.o.o](https://www.hrc.si/)**
 
-⚡ Fun fact: Bill Gates' house was designed using a Macintosh computer.
+⚡ **Fun fact**: Bill Gates' house was designed using a Macintosh computer.
 </div>
 
 <div align="center">
-<h2 align='center'>📫 How to reach me</h2>
+<h2 align='center'>📫 How to reach me:</h2>
   
 [<img align="center" alt="Social | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="Social | Stackoverflow" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
@@ -40,8 +42,29 @@
 [<img align="center" alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">](https://developer.apple.com/macos/)
 [<img align="center" alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">](https://www.kernel.org/)
 <br><br>
+</div>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TomazMazej&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+<div align="center">
+<h2 align='center'>🎓 Education:</h2>
+  - Bachelor's degree in computer science:
+  - **University**: Faculty of Electrical Engineering and Computer Science, University of Maribor
+  - **Thesis title**: Mobile Games Testing
+
+- Masters's degree in computer science:
+  - **University**: Faculty of Electrical Engineering and Computer Science, University of Maribor
+  - **Thesis title**: / &rarr; Not yet completed
+  
+</div>
+
+<div align="center">
+<h2 align='center'>Hobbies</h2>
+  - Fitness🏋️
+  - Tennis🎾
+  - Reading📚
+  - Chess♟️
+  - Travel🗺️
+  - Motorbike🏍️
+  
 </div>
 
 [linkedin]: https://www.linkedin.com/in/tomaz-mazej-5a636418b/
@@ -49,4 +72,3 @@
 [gmail]: mailto:tomaz.mazej@gmail.com
 [facebook]: https://www.facebook.com/mazejgames
 [instagram]: https://www.instagram.com/mazejgames/
-
