@@ -46,7 +46,8 @@
 
 <div align="center">
 <h2 align='center'>🎓 Education:</h2>
-  - Bachelor's degree in computer science:
+  
+- Bachelor's degree in computer science:
   - **University**: Faculty of Electrical Engineering and Computer Science, University of Maribor
   - **Thesis title**: Mobile Games Testing
 
@@ -58,12 +59,12 @@
 
 <div>
 <h2 align='center'>Hobbies</h2>
-  - Fitness🏋️
-  - Tennis🎾
-  - Reading📚
-  - Chess♟️
-  - Travel🗺️
-  - Motorbike🏍️
+- Fitness🏋️
+- Tennis🎾
+- Reading📚
+- Chess♟️
+- Travel🗺️
+- Motorbike🏍️
   
 </div>
 
