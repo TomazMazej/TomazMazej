@@ -44,7 +44,7 @@
 <br><br>
 </div>
 
-<div align="center">
+<div>
 <h2 align='center'>🎓 Education:</h2>
   
 - Bachelor's degree in computer science:
