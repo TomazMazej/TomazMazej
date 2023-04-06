@@ -55,7 +55,7 @@
 
 - Masters's degree in computer science:
   - **University**: Faculty of Electrical Engineering and Computer Science, University of Maribor
-  - **Thesis title**: Comparison of Scrum and Waterfall project management methodologies
+  - **Thesis title**: Comparison of Scrum and Waterfall Project Management Methodologies
   
 #
 
