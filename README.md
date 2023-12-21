@@ -1,6 +1,6 @@
 <h1> Welcome to my profile! :wave:</h1>
 
-### I'm a Computer Science Master Student, App/Game Developer and I also freelance websites!
+### I'm Software Engineer from SLovenia!
 
 #
 
@@ -8,9 +8,9 @@
 
 ### ℹ️ Info
 
-🔭 I’m currently working on my **Master Thesis**
+🔭 I’m currently working on **Improving my skills as a programmer**
 
-🌱 I’m currently learning **Swift**
+🌱 I’m currently learning **React**
   
 🏢 I'm working at ... **[HRC d.o.o](https://www.hrc.si/)**
 
