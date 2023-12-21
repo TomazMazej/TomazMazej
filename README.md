@@ -1,6 +1,6 @@
 <h1> Welcome to my profile! :wave:</h1>
 
-### I'm Software Engineer from SLovenia!
+### I'm Software Engineer from Slovenia!
 
 #
 
