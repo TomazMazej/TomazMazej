@@ -1,20 +1,27 @@
-<h1> Welcome to my profile! :wave:</h1>
+# 👨‍💻Tomaz Mazej
 
-### I'm Software Engineer from Slovenia!
+**`Software Engineer`**
+
+I've been coding since 2016 - mainly Java. I graduated with a B.S. Degree in Computer Science with an emphasis in Blockchain & App Development in August of 2021 from University of Maribor and completed my Master's degree in 2023.
+
+I am a very ambitious, sociable and analytical achiever determined to deliver excellent results consistently. I succeed through being able to learn quickly, having clear goals and by building networks and relationships. 
+
+In my free time you can find me working on a project, engaging in different sports and outdoor activities, reading a book or hanging out with my family and friends.
 
 #
 
-[![Social banner for Tomaz Mazej](https://github.com/TomazMazej/TomazMazej/blob/main/assets/mazej_dev_logo.png)](https://mazejgames.com)
-
-### ℹ️ Info
-
-🔭 I’m currently working on **Improving my skills as a programmer**
-
-🌱 I’m currently learning **React**
+### 🛠️ Languages and Tools:
   
-🏢 I'm working at ... **[HRC d.o.o](https://www.hrc.si/)**
-
-⚡ **Fun fact**: Bill Gates' house was designed using a Macintosh computer.
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" />
+<img align="left" alt="Oracle" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/oracle/oracle-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" />
+<img align="left" alt="VScode" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Apple" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apple/apple-original.svg" />
+<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/android/android-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" />
+<br />
 
 #
 
@@ -23,27 +30,7 @@
 [<img align="center" alt="Social | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="Social | Stackoverflow" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="center" alt="Social | Gmail" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="center" alt="Social | Facebook" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="center" alt="Social | Instagram" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-#
-
-### 🛠️ Languages and Tools:
-  
-[<img alt="android" width="26px" src="https://img.icons8.com/color/48/000000/android-os.png" />](https://www.android.com/)
-[<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />](https://www.jetbrains.com/idea/)
-[<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">](https://docs.oracle.com/en/java/)
-[<img alt="apple" width="26px" src="https://img.icons8.com/ios/50/000000/mac-os.png">](https://www.apple.com/)
-[<img alt="xcode" width="26px" src="https://img.icons8.com/color/48/000000/xcode.png">](https://developer.apple.com/xcode/)
-[<img alt="swift" width="26px" src="https://img.icons8.com/color/48/000000/swiftui.png">](https://developer.apple.com/swift/)
-[<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">](https://dev.mysql.com/)
-[<img alt="unity" width="26px" src="https://img.icons8.com/ios-filled/50/000000/unity.png">](https://unity.com/)
-[<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">](https://git-scm.com/)
-[<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">](https://github.com/)
-[<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">](https://docs.microsoft.com/en-us/windows/terminal/)
-[<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">](https://www.microsoft.com/en-us/windows)
-[<img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">](https://developer.apple.com/macos/)
-[<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">](https://www.kernel.org/)
 
 #
 
@@ -67,9 +54,10 @@
 - Chess♟️
 - Travel🗺️
 - Motorbike🏍️
+
+[![Social banner for Tomaz Mazej](https://github.com/TomazMazej/TomazMazej/blob/main/assets/mazej_dev_logo.png)](https://mazejgames.com)
   
 [linkedin]: https://www.linkedin.com/in/tomaz-mazej-5a636418b/
 [stackoverflow]: https://stackoverflow.com/users/12029044/tomaz-mazej
 [gmail]: mailto:tomaz.mazej@gmail.com
-[facebook]: https://www.facebook.com/mazejgames
-[instagram]: https://www.instagram.com/mazejgames/
+[instagram]: https://www.instagram.com/mazejdev/
